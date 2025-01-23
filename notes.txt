@@ -1,0 +1,30 @@
+bash scripts text file that contains series of commands 
+1) bash hello.sh
+2) 2.1)include shebang as the first line (#!/usr/bin/env bash) 2.2)chmod +x myscript 2.3)./hello.sh 
+vim or nano text editors
+
+'' even substitution/expansion ignored
+"" not ignored 
+
+integer calculations
+bc (basic calculations)
+RANDOM
+
+$? is a special variable that holds the exit status of the last executed command.
+
+echo a;echo b 
+
+In Bash, &&(AND) and ||(OR) are logical operators used to combine commands or conditions.
+
+declare -l name="peter"
+declare -r name="peter"
+declare -p
+
+[ ! 4 -lt 3 ]
+
+
+ 
+
+
+
+

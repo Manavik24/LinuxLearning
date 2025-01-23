@@ -1,0 +1,5 @@
+file1.txt
+list.txt
+pipes.sh
+redirections.sh
+New line
